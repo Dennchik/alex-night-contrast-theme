@@ -26,10 +26,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Dennchik/alex-night-ocean-contrast-theme-1.0.7"
+		"url": "https://dennchik.github.io/alex-night-contrast-theme/"
 	},
 	"bugs": {
-		"url": "https://github.com/Dennchik/alex-night-ocean-contrast-theme-1.0.7/issues"
+		"url": "https://dennchik.github.io/alex-night-contrast-theme/issues"
 	},
 	"contributes": {
 		"themes": [
