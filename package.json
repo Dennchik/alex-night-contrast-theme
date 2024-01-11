@@ -1,0 +1,79 @@
+{
+	"name": "night-ocean-contrast-theme",
+	"displayName": "Night Ocean-Contrast Theme",
+	"description": "Dark night themes",
+	"author": "Alex",
+	"publisher": "Alex",
+	"icon": "icon/ocean-night.png",
+	"version": "1.0.1",
+	"keywords": [
+		"VSCode",
+		"theme",
+		"color-theme",
+		"dark theme",
+		"tokyo",
+		"ocean night",
+		"one dark",
+		"neon",
+		"dark"
+	],
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"license": "free",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Dennchik/alex-night-ocean-contrast-theme-1.0.7"
+	},
+	"bugs": {
+		"url": "https://github.com/Dennchik/alex-night-ocean-contrast-theme-1.0.7/issues"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Ocean-Contrast Dark-Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night-Ocean-Contrast-Dark-theme.json"
+			},
+			{
+				"label": "Night Ocean-Contrast Mod-Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night-Ocean-Contrast-Mod-theme.json"
+			},
+			{
+				"label": "Night Ocean-Contrast Pink-Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night-Ocean-Contrast-Pink-Theme.json"
+			},
+			{
+				"label": "Night Ocean-Contrast WebDEV-Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night-Ocean-Contrast-Theme.json"
+			},
+			{
+				"label": "Simple Orange - Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Simple-Orange Theme.json"
+			},
+			{
+				"label": "Night Ocean-Contrast Halestorm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night-Ocean-Contrast-Halestorm-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"publisherDisplayName": "Alex",
+		"targetPlatform": "undefined",
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"pinned": false,
+		"preRelease": false
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"type": "object",
+	"allowComments": true,
+	"allowTrailingCommas": true,
+	"properties": {
+		"colors": {
+			"description": "Цвета в workbench",
+			"$ref": "vscode://schemas/workbench-colors",
+			"additionalProperties": false
+		},
+		"tokenColors": {
+			"anyOf": [
+				{
+					"type": "string",
+					"description": "Путь к файлу tmTheme (относительно текущего файла).",
+					"$ref": "vscode://schemas/textmate-colors"
+				},
+				{
+					"description": "Цвета для выделения синтаксических конструкций",
+					"$ref": "vscode://schemas/textmate-colors"
+				}
+			]
+		},
+		"semanticHighlighting": {
+			"type": "boolean",
+			"description": "Следует ли включить выделение семантики для этой темы."
+		},
+		"semanticTokenColors": {
+			"type": "object",
+			"description": "Цвета для семантических токенов",
+			"$ref": "vscode://schemas/token-styling"
+		}
+	}
+}
