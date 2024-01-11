@@ -25,9 +25,9 @@ Dark themes that are pleasant to the eye and perception. There are also more con
 
 ### Simple Contrast Green-Theme
 
-![Simple Orange - Theme](https://github.com/Dennchik/alex-night-contrast-theme/blob/main/image//Screen-4.png?raw=true)
+![Simple Orange - Theme](https://github.com/Dennchik/alex-night-contrast-theme/blob/main/image/Screen-4.png?raw=true)
 
 ### Night Ocean Contrast - Halestorm
 
-![Simple Orange - Theme](https://github.com/Dennchik/alex-night-contrast-theme/blob/main/image//Screen-5.png?raw=true)
+![Simple Orange - Theme](https://github.com/Dennchik/alex-night-contrast-theme/blob/main/image/Screen-5.png?raw=true)
 
