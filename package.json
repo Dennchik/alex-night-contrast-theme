@@ -26,10 +26,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Dennchik/alex-night-contrast-theme"
+		"url": "https://github.com/Dennchik/alex-night-contrast-theme/"
 	},
 	"bugs": {
-		"url": "https://dennchik.github.io/alex-night-contrast-theme/issues"
+		"url": "https://github.com/Dennchik/alex-night-contrast-theme/issues"
 	},
 	"contributes": {
 		"themes": [
