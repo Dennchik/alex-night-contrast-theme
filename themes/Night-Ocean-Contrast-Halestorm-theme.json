@@ -1038,7 +1038,7 @@
 	],
 	"colors": {
 		//! ------------------------------------------------[General]-------------------------------------------------------
-		"editor.background": "#27283a",
+		"editor.background": "#22222e",
 		"foreground": "#97a6db",
 		"focusBorder": "#545c7e33",
 		"selection.background": "#353b51",

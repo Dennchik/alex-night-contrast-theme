@@ -54,9 +54,9 @@
 				"path": "./themes/Night-Ocean-Contrast-Theme.json"
 			},
 			{
-				"label": "Simple Contrast Green-Theme",
+				"label": "Simple Contrast Orange-Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Simple-Contrast-Green-Theme.json"
+				"path": "./themes/Simple-Contrast-Orange-Theme.json"
 			},
 			{
 				"label": "Night Ocean-Contrast Halestorm",
